@@ -19,9 +19,9 @@ public class PigAB {
 
 			// Prompts for input
 			menuSelect = Integer.parseInt(JOptionPane.showInputDialog
-		      ("1. Enter a new string\n" +
+		          ("1. Enter a new string\n" +
 			   "2. Report the number of words in the message\n" +
-		       "3. Write the message in reverse order\n" +
+		           "3. Write the message in reverse order\n" +
 			   "4. Alphabatize the words in the message\n" +
 			   "5. Provide an ordered list of unique words with frequencies\n" +
 			   "6. Convert the string to Pig Latin\n" +
